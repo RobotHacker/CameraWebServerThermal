@@ -36,3 +36,4 @@ Yet another version of the classic ESP32-CAM example CameraWebServer, this time 
 - https://github.com/smartynov/AMG8833-Thermal-Cam
 - https://www.youtube.com/watch?v=tLwYMQjD0l4
   - Color map generation
+- https://www.esp32.com/viewtopic.php?t=7763
