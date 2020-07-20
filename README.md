@@ -17,6 +17,8 @@ Yet another version of the classic ESP32-CAM example CameraWebServer, this time 
 - Make the color map more adjustable
   - Raise and lower the high and low ends of the color map
   - Replace the color map with custom colors
+- Delay between stream frames
+  - bring the frame rate down to 10 fps
 
 # The process so far
 - Started with [CameraWebServer](https://github.com/espressif/arduino-esp32/tree/master/libraries/ESP32/examples/Camera/CameraWebServer)
